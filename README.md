@@ -15,8 +15,8 @@ Fetching some lovely communities and homes in Calgary and displaying the correct
 * :mag: Search Communities and Homes by Other Attributes
 
 ## Final Product
-*Web View <br/>
+* Web View <br/>
 !["Gif of Web View"](https://github.com/mrchenliang/community/blob/master/docs/web.gif)
-*Mobile View <br/>
+* Mobile View <br/>
 !["Gif of Mobile View"](https://github.com/mrchenliang/community/blob/master/docs/mobile.gif)
 
