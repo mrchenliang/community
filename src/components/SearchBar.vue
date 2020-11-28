@@ -2,7 +2,6 @@
   <input
     class="search"
     type="search"
-    v-model="search"
     placeholder={placeholder}
     @keydown.enter = 'emitChange'
     @blur = 'emitChange'

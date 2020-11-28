@@ -13,6 +13,7 @@ Fetching some lovely communities and homes in Calgary and displaying the correct
 ## Future Features
 * :house: Independent Community Pages with Homes in Each Community
 * :mag: Search Communities and Homes by Other Attributes
+* :bookmark: Filter Communities and Homes by Group
 
 ## Final Product
 * Web View <br/>
