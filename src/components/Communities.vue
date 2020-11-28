@@ -78,6 +78,8 @@ export default Vue.extend ({
           });
           averages.push({ communityId: communityId, averagePrice: sums[communityId] / counts[communityId], counts: counts[communityId], communityName: community[0].name, communityImgUrl: community[0].imgUrl  });
         }
+        averages.sort((a: any, b: any) => (a.communityName > b.communityName) ? 1 : ((b.communityName > a.communityName) ? -1 : 0)); 
+
         if(this.search) {
           const filterAverages = averages.filter((average: any) =>
             average.communityName.toLowerCase().includes(this.search.toLowerCase())

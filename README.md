@@ -1,24 +1,21 @@
-# vue-ts
+# calgary communities and homes
 
-## Project setup
-```
-npm install
-```
+## Project
+Fetching some lovely communities and homes in Calgary and displaying the correct data to showcase the average home price in the community.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Key Features
+:iphone: Mobile Responsive
+:mag_right: Search Communities by Name
+:city_sunset: Community Stock Photos
+:dollar: Correct Pricing in Canadian Dollars
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Future Features
+:house: Independent Community Pages with Homes in Each Community
+:mag: Search Communities and Homes by Other Attributes
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Final Product
+Web View
+!["Gif of Web View"](https://github.com/mrchenliang/community/blob/master/docs/web.gif)
+Mobile View
+!["Gif of Mobile View"](https://github.com/mrchenliang/community/blob/master/docs/mobile.gif)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

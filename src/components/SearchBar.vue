@@ -4,10 +4,8 @@
     type="search"
     v-model="search"
     placeholder={placeholder}
-    @keydown.tab = 'emitChange'
     @keydown.enter = 'emitChange'
     @blur = 'emitChange'
-    @onfocus = 'emitChange'
     @change = 'emitChange'
     @input = "emitChange"
   />
